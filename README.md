@@ -15,8 +15,8 @@ Este projeto é uma aplicação desenvolvida utilizando Flask como backend e Rea
 source venv/bin/activate
 pip install -r requirements.txt`
 ou instale as dependências manualmente:
-`pip install Flask
-pip install flask_socketio`
+`pip install Flask` e
+`pip install flask_socketio`
 
 ### Etapa 3: Instalação de dependências do React:
 `cd cliente
