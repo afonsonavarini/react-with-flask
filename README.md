@@ -31,8 +31,9 @@ npm start`
 
 ## Exemplo de execução
 
-![Aplicação inicial]("https://i.imgur.com/HGUs6Nr.png")
-![Envio de logs]("https://i.imgur.com/7uTRlz9.png")
+![Aplicação Inicial](https://github.com/afonsonavarini/react-with-flask/assets/63884763/e517489f-1e18-48ae-b71e-3516a6d9bd7b)
+![Executando logs](https://github.com/afonsonavarini/react-with-flask/assets/63884763/47253043-8b2d-4cd9-ac4e-8dfc6e405720)
+
 
 ## Bibliotecas
 
