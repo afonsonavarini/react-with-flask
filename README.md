@@ -45,7 +45,7 @@ npm start`
 - Flask-CORS
 - Time (nativo)
 
-## React
+## Interface WEB
 - React
 - Axios
 - Socket.io
