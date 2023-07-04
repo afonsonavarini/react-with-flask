@@ -9,9 +9,7 @@ function ParameterInput() {
   const [parametros, setParametros] = useState('')
 
   const onSubmit = async () => {
-    console.log(parametros)
     const response = await axios.post("http://localhost:5000/start", {parametros})
-    console.log(response)
   }
 
   const clear = () => {
