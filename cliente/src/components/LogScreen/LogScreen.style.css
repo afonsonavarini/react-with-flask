@@ -1,0 +1,42 @@
+.LogScreenContainer {
+    width: 100vh;
+    height: 300px;
+    border-style: solid;
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    overflow: auto;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: rgb(43, 43, 43);
+}
+
+
+
+.logWrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.clearLogsButton {
+    border: none;
+    color: white;
+    background-color: rgb(119, 119, 119);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.clearLogsButton:hover {
+    background-color: rgb(82, 82, 82);
+}
+
+.cleanLogs {
+    color: gray;
+    align-self: center;
+}
