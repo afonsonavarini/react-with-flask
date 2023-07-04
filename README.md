@@ -31,8 +31,8 @@ npm start`
 
 ## Exemplo de execução
 
-![Aplicação inicial]("https://prnt.sc/vB-VYA4e-zkE")
-![Envio de logs]("https://prnt.sc/EJ0_iq5QqNfd")
+![Aplicação inicial]("https://i.imgur.com/HGUs6Nr.png")
+![Envio de logs]("https://i.imgur.com/7uTRlz9.png")
 
 ## Bibliotecas
 
