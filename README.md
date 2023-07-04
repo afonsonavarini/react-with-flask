@@ -39,11 +39,10 @@ npm start`
 
 ## Bibliotecas
 
-## Flask
+## Python Flask
 - Flask
 - Flask-Socket.io
 - Flask-CORS
-- Time (nativo)
 
 ## Interface WEB
 - React
