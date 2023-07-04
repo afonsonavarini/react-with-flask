@@ -26,5 +26,4 @@ def start_task():
     return jsonify({'status': 'Task started'})
 
 if __name__ == '__main__':
-    print('startou')
     socketio.run(app, debug=True)
